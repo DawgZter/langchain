@@ -7,7 +7,7 @@ Prompts
 
 The new way of programming models is through prompts.
 A "prompt" refers to the input to the model.
-This input is rarely hard coded, but rather is often constructed from multiple components.
+This input is rarely hardcoded, but rather is often constructed from multiple components.
 A PromptTemplate is responsible for the construction of this input.
 LangChain provides several classes and functions to make constructing and working with prompts easy.
 
@@ -23,7 +23,7 @@ How to use PromptTemplates to prompt Chat Models.
 
 **Example Selectors**
 
-Often times it is useful to include examples in prompts.
+Oftentimes it is useful to include examples in prompts.
 These examples can be hardcoded, but it is often more powerful if they are dynamically selected.
 This section goes over example selection.
 
